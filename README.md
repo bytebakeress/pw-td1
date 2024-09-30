@@ -1,15 +1,13 @@
-# pw-td1
-
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run src/index.ts
-```
-
-This project was created using `bun init` in bun v1.1.27. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+# sow fatimatou
+# numero etudiants:32320813
+# Groupe 2
+src
+│       hello-func.ts
+│       index.ts
+│       types.ts
+│
+└───test
+        HelloHuman.test.ts
+        helloword.test.ts
+        helloYou.test.ts
+        RepeathelloYou.test.ts
